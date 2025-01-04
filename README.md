@@ -1,2 +1,2 @@
-# kwa39.githun.io
+# kwa39.github.io
 Get dakily topster from your spotify
